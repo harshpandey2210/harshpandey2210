@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>⚡️Computer Science student with a strong foundation in Java, Data Structures, Algorithms, and problem-solving.<br>Skilled in writing clean, efficient code and building optimized solutions for technical challenges. Passionate about<br>software development, system design, and collaborative coding practices.<br>🔭I am currently working on a MERN Project<br>🌱I'm Currently Learning and enhancing my skills<br>🤝I'm looking to collaborate on<br>Coding Journey🚶‍➡️......................................................
+<br>⚡️Computer Science student with a strong foundation in Java, Data Structures, Algorithms, and problem-solving.<br>Skilled in writing clean, efficient code and building optimized solutions for technical challenges. Passionate about<br>software development, system design, and collaborative coding practices.<br>🔭I am currently working on a MERN Project<br>🌱I'm Currently Learning and enhancing my skills<br>🤝I'm looking to collaborate on<br>Coding Journey🚶‍➡️......................................................
 
 
 ## 🌐 Socials:
